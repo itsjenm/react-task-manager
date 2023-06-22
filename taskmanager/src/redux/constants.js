@@ -1,0 +1,1 @@
+// file for storing constants (for example, status filter values)
